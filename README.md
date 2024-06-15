@@ -1,1 +1,12 @@
-# python-learing
+#order
+- [ ] hello
+- [ ] sum
+- [ ] evenorodd
+- [ ] leapyear
+- [ ] naturals
+- [ ] palindrom
+- [ ] matching
+- [ ] naturalsum
+- [ ] factorial
+- [ ] fibono1
+- [ ] fibono2
