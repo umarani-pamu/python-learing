@@ -4,7 +4,7 @@
 - [x] evenorodd ??
 - [x] leapyear
 - [x] naturals
-- [ ] palindrom
+- [x] palindrom
 - [ ] naturalsum
 - [ ] factorial
 - [ ] fibono1
