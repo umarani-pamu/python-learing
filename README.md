@@ -5,7 +5,7 @@
 - [x] leapyear
 - [x] naturals
 - [x] palindrom
-- [ ] naturalsum
+- [x] naturalsum
 - [ ] factorial
 - [ ] fibono1
 - [ ] fibono2
