@@ -17,16 +17,17 @@ def is_leap_year(year):
     else:
         return False
 
-user_input = input("Enter a year: ")
+
 
 try:
+    user_input = input("Enter a year: ")
     year = int(user_input) 
     if year > 0:
         if is_leap_year(year):
-            print(f"{year} is a leap year.")
+            print(f"leap year")
         else:
-            print(f"{year} is not a leap year.")
+            print(f"not a leap year")
     else:
-        print("Please enter a valid positive year!")
+        print("Please enter a valid year!")
 except ValueError:
     print("Please enter only a number!") 

@@ -6,26 +6,30 @@ even
 odd
 """
 
-def EvenOdd(number):
+"""
+def isEven(number):
     if (number % 2) == 0:
         print("The given number is even")
         return True
     else:
         print("The given number is odd")
         return False
+"""
+
+def isEven(number):
+    return (number % 2) == 0    
 
 user_input = input("Enter the input: ")
 
 try:
     number = int(user_input)  
-    result = EvenOdd(number) 
-    print(result)  
+    result = isEven(number) 
+
+    # do application logic
+    if result:
+        print("even")
+    else:
+        print("odd")
 except ValueError:
-    print("Please enter only integer numbers!!")
+    print("please enter a valid input!!")
 
-
-
-
-
-# move to fun to return Treu or False and call then print result
-# validate inputs

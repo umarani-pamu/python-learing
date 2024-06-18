@@ -1,12 +1,12 @@
 #order
-- [ ] hello
-- [ ] sum
-- [ ] evenorodd
-- [ ] leapyear
-- [ ] naturals
+- [x] hello
+- [x] sum ??
+- [x] evenorodd ??
+- [x] leapyear
+- [x] naturals
 - [ ] palindrom
-- [ ] matching
 - [ ] naturalsum
 - [ ] factorial
 - [ ] fibono1
 - [ ] fibono2
+- [ ] matching
